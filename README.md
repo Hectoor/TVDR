@@ -18,7 +18,7 @@ To address these issues, we propose a *Training-free VFM-guided Dynamic Refineme
 ```bibtex
 @article{zhang2026tvdr,
   title={Training-Free VFM-guided Dynamic Refinement for Domain Generalized Semantic Segmentation},
-  author={Zhang, Yuhang and Wei, Binbin and Li, Wei and Yang, Xin and Zeng, Tiantian and Zou, Wenbin},
+  author={Yuhang Zhang, Binbin Wei, Wei Li, Xin Yang, Tiantian Zeng, Wenbin Zou},
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2026}
 }
